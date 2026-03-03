@@ -51,7 +51,7 @@ Play Games Service 및 Game Center와 연동하여, 각 플랫폼의 계정 정�
 <img src="https://github.com/user-attachments/assets/b948c25e-4077-4f87-aad9-520e3ecda185" width="20%">
 
 
-⬆ Android/iOS 크로스 플랫폼 빌드 진행 및 스토어 업로드 :
+⬆ Android/iOS 플랫폼 빌드 진행 및 스토어 업로드 :
 
 플랫폼별 빌드 세팅/빌드 (Android : 키스토어, iOS : XCode, 프로비저닝 등)
 
